@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,   I'm Aman</h1>
 <h3 align="center">A Programmar Development Enthusiast from India.</h3>
 
-- 🔭 I’m currently working on **developing backends for websites.**
+- 🔭 I’m currently working as **Intern in Info Origin Technologies Pvt. Ltd.**
 
 - 🌱 I’m currently learning **SprinBoot**
 
